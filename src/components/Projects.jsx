@@ -3,7 +3,7 @@ import BookStore from "../assets/images/BookStore.png";
 import Myntra from "../assets/images/myntra.png";
 import BatBallStump from "../assets/images/BatBallStump.png";
 import ReactImg from "../assets/images/reactjs.png";
-import Express from "../assets/images/Express.png";
+import Java from "../assets/images/java.png";
 
 import BookStoreVideo from "../assets/videos/BookStore.mp4";
 import MyntraVideo from "../assets/videos/MyntraFunctional.mp4";
@@ -43,8 +43,8 @@ function Projects() {
     },
     {
       id: 5,
-      logo: Express,
-      name: "Express.js",
+      logo: Java,
+      name: "java",
     },
   ];
   return (
