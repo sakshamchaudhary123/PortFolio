@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import Home from './components/Home'
 import About from './components/About'
-import Portfolio from './components/Portfolio'
+import Projects from './components/Projects'
 import Skills from './components/Skills'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
@@ -15,7 +15,7 @@ function App() {
       <Navbar></Navbar>
       <Home></Home>
       <About></About>
-      <Portfolio></Portfolio>
+      <Projects></Projects>
       <Skills></Skills>
       <Contact></Contact>
       <Footer></Footer>
