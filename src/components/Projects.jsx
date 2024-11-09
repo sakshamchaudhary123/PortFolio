@@ -1,13 +1,14 @@
 import React from "react";
-import BookStore from "../assets/images/Bookstore.png";
-import Myntra from "../assets/images/myntra.png";
+import BookStore from "../assets/images/BookStore.png";
+import Myntra from "../assets/images/Myntra.png";
 import BatBallStump from "../assets/images/BatBallStump.png";
 import ReactImg from "../assets/images/reactjs.png";
-import Express from "../assets/images/express.png";
+import Express from "../assets/images/Express.png";
 
+import BookStoreVideo from "../assets/videos/BookStore.mp4";
 import MyntraVideo from "../assets/videos/MyntraFunctional.mp4";
 import BatBallVideo from "../assets/videos/BatBallStump.mp4";
-import BookStoreVideo from "../assets/videos/BookStore.mp4";
+
 
 function Projects() {
   const cardItems = [
