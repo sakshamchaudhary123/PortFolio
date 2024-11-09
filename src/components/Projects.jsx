@@ -1,6 +1,6 @@
 import React from "react";
 import BookStore from "../assets/images/BookStore.png";
-import Myntra from "../assets/images/Myntra.png";
+import Myntra from "../assets/images/myntra.png";
 import BatBallStump from "../assets/images/BatBallStump.png";
 import ReactImg from "../assets/images/reactjs.png";
 import Express from "../assets/images/Express.png";
